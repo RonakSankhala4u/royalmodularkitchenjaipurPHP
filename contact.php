@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Business Badha Lo || Ab Har Business Badhega Digitally </title>
+  <title>Royal Moduler kitchen & Interior </title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,7 +26,8 @@
   <link href="css/style.css" rel="stylesheet">
   <!-- Font Aewsome -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-  
+  <!-- all min css -->
+  <link rel="stylesheet" href="plugins/Allmin/all.min.css">
   <!--Favicon-->
   <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
@@ -37,7 +38,7 @@
   
   <header class="navigation fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark">
-      <a class="navbar-brand" href="index.php"><img src="images/websiteLogo01.png" alt="Business Badha Lo" width="250px"></a>
+      <a class="navbar-brand" href="index.php"><img src="images/logo-kitchen2.png" alt="Business Badha Lo" width="250px"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
         aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -80,6 +81,19 @@
 
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.0054794388493!2d75.7757646!3d26.871567000000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db50bba08fc31%3A0x2e6c9f41d971da7e!2sRoyal%20Moduler%20kitchen%20%26%20Interior!5e0!3m2!1sen!2sin!4v1676003281040!5m2!1sen!2sin" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+    <!-- call to action -->
+<section>
+  <div class="container section-sm overlay-secondary-half bg-cover" data-background="images/backgrounds/cta-bg.jpg">
+      <div class="row">
+          <div class="col-lg-8 offset-lg-1">
+              <h2 class="text-gradient-primary">Contact me with Call</h2>
+             <p> <a href="tel:9694698624" class="h4 font-weight-bold text-white mb-4 mobileno">9694698624</a></p>
+              <a href="tel:9694698624" class="btn btn-lg btn-primary">Call Now</a>
+          </div>
+      </div>
+  </div>
+</section>
+<!-- /call to action -->
 
 <!-- footer -->
 <footer class="bg-secondary position-relative">
@@ -88,7 +102,7 @@
     <div class="container">
       <div class="row align-items-center">
         <div class="col-md-3 col-6">
-          <h4 class="text-white mb-5">About</h4>
+          <h4 class="text-white mb-5">menu</h4>
           <ul class="list-unstyled">
             <li><a href="index.php" class="text-light d-block mb-3">Home</a></li>
             <li><a href="contact.php" class="text-light d-block mb-3">Contact</a></li>
@@ -96,13 +110,15 @@
             <li><a href="services.php" class="text-light d-block mb-3">Services</a></li>
           </ul>
         </div>
-        <div class="col-md-3 col-6">
-          <h4 class="text-white mb-5">Company</h4>
+        <div class="col-md-3 col-12">
+          <h4 class="text-white mb-5">Contact Details</h4>
           <ul class="list-unstyled">
-            <li><a href="index.php" class="text-light d-block mb-3">Home</a></li>
-            <li><a href="contact.php" class="text-light d-block mb-3">Contact</a></li>
-            <li><a href="about.php" class="text-light d-block mb-3">About us</a></li>
-            <li><a href="services.php" class="text-light d-block mb-3">Services</a></li>
+            <li><a href="#" class="text-light d-block mb-3">Name : Royal Moduler kitchen & Interior</a></li>
+            <li><a href="https://goo.gl/maps/TpahFquNwkyg9LbW8" class="text-light d-block mb-3">Office Address : LG-24 Jaipur Electronic Market Riddhi Siddhi circle, Gopalpura mod,Jaipur
+         Pin code- 302018
+</a></li>
+            <li><a href="tel:9680598624" class="text-light d-block mb-3">Mobile No. : 9680598624,</a></li>
+            <li><a href="tel:9694698624" class="text-light d-block mb-3">9694698624</a></li>
           </ul>
         </div>
         
@@ -133,9 +149,9 @@
         </div>
         <div class="col-md-6">
           <ul class="list-inline text-md-right text-center">
-            <li class="list-inline-item"><a class="d-block p-3 text-white" href="https://www.facebook.com/profile.php?id=100086517619234&mibextid=LQQJ4d"><i class="ti-facebook"></i></a></li>
-            <li class="list-inline-item"><a class="d-block p-3 text-white" href="https://www.youtube.com/@businessbadhalocom/"><i class="fa fa-youtube-play"></i></a></li>
-            <li class="list-inline-item"><a class="d-block p-3 text-white" href="https://www.instagram.com/business_badha_lo_com/"><i class="ti-instagram"></i></a></li>
+            <li class="list-inline-item"><a class="d-block p-3 text-white" href="https://www.facebook.com/profile.php?id=100089870058802&mibextid=ZbWKwL"><i class="ti-facebook"></i></a></li>
+            <li class="list-inline-item"><a class="d-block p-3 text-white" href="https://goo.gl/maps/TpahFquNwkyg9LbW8"><i class="fa-solid fa-location-dot"></i></a></li>
+            <li class="list-inline-item"><a class="d-block p-3 text-white" href="http://Instagram.com/royalmodulerkitchen.interior"><i class="ti-instagram"></i></a></li>
           </ul>
         </div>
       </div>

@@ -11,7 +11,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Business Badha Lo || Ab Har Business Badhega Digitally </title>
+  <title>Royal Moduler kitchen & Interior</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -166,7 +166,7 @@
                             <!-- <i class="bi bi-briefcase"></i> -->
                         </div>
                         <h4 class="mb-4">Decide on the best layout for the kitchen</h4>
-                        <p>BusinessBadhaLo.Com Provides You absloutly free consulting. </p>
+                        <p>Royal Moduler kitchen & Interior </p>
                     </div>
                     
                 </div>
@@ -175,7 +175,7 @@
                   <div class="content">
                     <p>
                         <br>
-                        Determine the layout: Decide on the best layout for the kitchen, taking into consideration factors such as the location of windows and doors, the placement of appliances and sink, and the flow of traffic.
+                        A functional kitchen layout is key to a successful kitchen design. The most popular layouts are the U-shape, L-shape, single wall, and galley. Each has its own benefits and drawbacks, so it's important to consider your specific needs and lifestyle before making a decision. For example, a U-shape layout is great for those who love to cook and entertain, as it provides ample counter space and storage. However, it may not be the best choice for smaller kitchens. Ultimately, the best layout for your kitchen will depend on your unique needs and preferences.
                   </div>
 
 
@@ -194,7 +194,7 @@
                             <i class="fa-solid fa-toilets-portable"></i>
                         </div>
                         <h4 class="mb-4">Choose the cabinets</h4>
-                        <p>Product research is the process of marketing research. </p>
+                        <p> Royal Moduler kitchen & Interior</p>
                     </div>
                 </div>
 
@@ -202,7 +202,7 @@
                 <div class="content">
                     <p>
                         <br>
-                        Product research is the process of marketing research that is done to get information on the desired characteristics and specifications of a product expected by the potential customers mainly before the launch and availability of the product. Product research helps companies to understand what the customers really want, so that the product can be tailored to match the needs of the customer.</p>
+                        A functional kitchen layout is key to a successful kitchen design. The most popular layouts are the U-shape, L-shape, single wall, and galley. Each has its own benefits and drawbacks, so it's important to consider your specific needs and lifestyle before making a decision. For example, a U-shape layout is great for those who love to cook and entertain, as it provides ample counter space and storage. However, it may not be the best choice for smaller kitchens. Ultimately, the best layout for your kitchen will depend on your unique needs and preferences.</p>
                   </div>
             </div>
 
@@ -218,18 +218,20 @@
                             <i class="fa-solid fa-fire-burner"></i>
                         </div>
                         <h4 class="mb-4">Decide on the worktop</h4>
-                        <p>Your brand is more than just a logo, name or color scheme. It’s who you are as a company</p>
+                        <p>Royal Moduler kitchen & Interior</p>
                     </div>
                 </div>
                 </button>
                 <div class="content">
                     <p>
                         <br>
-                        "Your brand is more than just a logo, name or color scheme. It’s who you are as a company at a very fundamental level.
-
-                        Branding dictates how customers feel about your business and, when done right, can elicit an emotional response at every touch point. Businesses with strong brands retain loyal customers for the long run and have an easier time appealing to new audiences because they already know what those companies stand for.
-
-                        This is all to say that if you aren’t effectively branding your business online and elsewhere, you’re putting some major barriers in the way of your marketing efforts.
+                        A functional kitchen layout is key to a successful kitchen design. The most popular 
+                        layouts are the U-shape, L-shape, single wall, and galley. Each has its own benefits
+                         and drawbacks, so it's important to consider your specific needs and lifestyle before
+                          making a decision. For example, a U-shape layout is great for those who love to cook and
+                           entertain, as it provides ample counter space and storage. However, it may not be the best
+                            choice for smaller kitchens. Ultimately, the best layout for your kitchen will depend on
+                             your unique needs and preferences.
                     </p>
                   </div>
             </div>
@@ -244,19 +246,20 @@
                             <i class="fa-regular fa-lightbulb"></i>
                         </div>
                         <h4 class="mb-4">Plan the lighting</h4>
-                        <p>A business model is a company's core strategy for profitably doing business.</p>
+                        <p>Royal Moduler kitchen & Interior</p>
                     </div>
                 </div>
                 </button>
                 <div class="content">
                     <p>
                         <br>
-                        A business model is a company's core strategy for profitably doing business.
-                        Models generally include information like products or services the business plans to sell, target markets, and any anticipated expenses.
-                        There are dozens of types of business models including retailers, manufacturers, fee-for-service, or freemium providers.
-                        The two levers of a business model are pricing and costs.
-                        When evaluating a business model as an investor, consider whether the product being offer matches a true need in the market.
-
+                        A functional kitchen layout is key to a successful kitchen design. The most popular 
+                        layouts are the U-shape, L-shape, single wall, and galley. Each has its own benefits
+                         and drawbacks, so it's important to consider your specific needs and lifestyle before
+                          making a decision. For example, a U-shape layout is great for those who love to cook and
+                           entertain, as it provides ample counter space and storage. However, it may not be the best
+                            choice for smaller kitchens. Ultimately, the best layout for your kitchen will depend on
+                             your unique needs and preferences.
                     </p>
                 </div>
             </div>
@@ -271,19 +274,20 @@
                             <i class="fa-solid fa-arrows-left-right-to-line"></i>
                         </div>
                         <h4 class="mb-4">Measure the kitchen space</h4>
-                        <p>BUSINESSBADHALO.COM is a leading website development company in Jaipur</p>
+                        <p>Royal Moduler kitchen & Interior</p>
                     </div>
                 </div>
                 </button>
                 <div class="content">
                     <p>
                         <br>
-                        BUSINESS BADHA LO.COM is a leading website development company that specializes in providing business solutions for SEO services and leading marketing solutions. Our experts are inclined to offer a stunning design with eye-catching graphics. We have got an experienced development team to push your limits.
-
-                        We always strive to seek perfection that is settling business while catering to all digital marketing ethics. We understand the importance of coding, but we also realize the importance of not loading the website. Indeed, choosing a web development team needs some skills. Isn’t it? This is where choosing the best web development services makes a big difference to your marketing strategy.
-
-                        Apart from development work, we also offer professional web development services for stunning designs with eye-catching graphics. We leverage the potential to provide you with exclusive website development services. We remain at the helm of providing you with a sound website that will turn the user into an outcome. If you’re looking for a web development services company, then BUSINESS BADHA LO .COM could be the best website provider for you.
-
+                        A functional kitchen layout is key to a successful kitchen design. The most popular 
+                        layouts are the U-shape, L-shape, single wall, and galley. Each has its own benefits
+                         and drawbacks, so it's important to consider your specific needs and lifestyle before
+                          making a decision. For example, a U-shape layout is great for those who love to cook and
+                           entertain, as it provides ample counter space and storage. However, it may not be the best
+                            choice for smaller kitchens. Ultimately, the best layout for your kitchen will depend on
+                             your unique needs and preferences.
                     </p>
                   </div>
             </div>
@@ -298,22 +302,20 @@
                             <i class="fa-solid fa-head-side-virus"></i>
                         </div>
                         <h4 class="mb-4">Health and Safety</h4>
-                        <p>We are a digital marketing company in JAIPUR where all businesses are welcomed with
-                            strategic campaigns.</p>
+                        <p>Royal Moduler kitchen & Interior</p>
                     </div>
                 </div>
                 </button>
                 <div class="content">
                     <p>
                         <br>
-                        "Digital Marketing Agency                                                                                    
-                        In search of being able to leave an impact with our work and delivering results that become achievements for the clients and us, we came out of our comfort zone to build our own digital cafe, Digital Cappuccino.                                                                       WE HANDLE ALL SOCIAL MEDIA HANDLES. AND HAVING EXPERTISE IN FACEBOOK/GOOGLE ADS.
-
-                        We are a digital marketing company in JAIPUR where all businesses are welcomed with warm and fresh strategic campaigns to advance their digital marketing process and hit the online networking challenges.
-                        Our process begins with exploring the customer data behaviours, trends, likes, and rejuvenation of the mainstream market.
-                        Get started with gathering the changing online customer database.
-                        Continue with marking the goals that you want to achieve and sustain.
-                        End the process with the execution and overall accomplishment of the campaigns."
+                        A functional kitchen layout is key to a successful kitchen design. The most popular 
+                        layouts are the U-shape, L-shape, single wall, and galley. Each has its own benefits
+                         and drawbacks, so it's important to consider your specific needs and lifestyle before
+                          making a decision. For example, a U-shape layout is great for those who love to cook and
+                           entertain, as it provides ample counter space and storage. However, it may not be the best
+                            choice for smaller kitchens. Ultimately, the best layout for your kitchen will depend on
+                             your unique needs and preferences.
                     </p>
                   </div>
             </div>
@@ -424,7 +426,7 @@
                                   <i class="icon text-gradient-primary ti-vector mr-3"></i>
                                   <div class="media-body">
                                       <h4 class="text-white">customizable modular kitchens</h4>
-                                      <p class="text-white">Business Badha Lo is a business development company with a team of experts with in-depth knowledge of business functions.</p>
+                                      <p class="text-white">Modular kitchens offer versatility and customization, allowing homeowners to design a kitchen that perfectly fits their needs and personal style.</p>
                                   </div>
                               </div>
                           </div>
@@ -433,7 +435,7 @@
                                   <i class="icon text-gradient-primary ti-layout mr-3"></i>
                                   <div class="media-body">
                                       <h4 class="text-white">comfortable and convenient</h4>
-                                      <p class="text-white">We develop strategies for large brands to small and medium-sized enterprises</p>
+                                      <p class="text-white">Creating a comfortable and convenient kitchen is essential for a happy home, making cooking and entertaining a pleasure.</p>
                                   </div>
                               </div>
                           </div>
@@ -442,7 +444,7 @@
                                   <i class="icon text-gradient-primary ti-headphone-alt mr-3"></i>
                                   <div class="media-body">
                                       <h4 class="text-white">24/7 customer support</h4>
-                                      <p class="text-white">Our Business Development Company will offer Business Development Services and Consultancy that will help you understand your audience and measure performance across all platforms to make data-informed decisions with confidence</p>
+                                      <p class="text-white">Modular kitchens offer versatility and customization, allowing homeowners to design a kitchen that perfectly fits their needs and personal style.</p>
                                   </div>
                               </div>
                           </div>
@@ -486,7 +488,7 @@
 <!-- /about -->
 
 <!-- project -->
-<section class="section">
+<!-- <section class="section">
   <div class="container-fluid px-0">
       <div class="row">
           <div class="col-lg-10 mx-auto text-center">
@@ -543,6 +545,73 @@
           </div>
       </div>
   </div>
+</section> -->
+<section class="section">
+  <div class="container px-0">
+      <div class="row">
+          <div class="col-lg-10 mx-auto text-center">
+              <h2>Our Feature Works</h2>
+              <div class="section-border"></div>
+          </div>
+      </div>
+
+      <div class="row no-gutters shuffle-wrapper">
+          <div class="col-lg-4 col-md-6 shuffle-item">
+              <div class="project-item">
+                  <img src="images/project/WhatsApp Image 2023-02-08 at 9.30.13 PM.jpeg" alt="project-image" class="img-fluid w-100">
+                  <!-- <div class="project-hover bg-secondary px-4 py-3">
+                      <a href="#" class="text-white h4">the latest trends and innovations</a>
+                      <a href="#"><i class="ti-link icon-xs text-white"></i></a>
+                  </div> -->
+              </div>
+          </div>
+          <div class="col-lg-4 col-md-6 shuffle-item">
+              <div class="project-item">
+                  <img src="images/project/WhatsApp Image 2023-02-08 at 9.30.14 PM (1).jpeg" alt="project-image" class="img-fluid w-100">
+                  <!-- <div class="project-hover bg-secondary px-4 py-3">
+                      <a href="#" class="text-white h4">inspiration for your own kitchen</a>
+                      <a href="#"><i class="ti-link icon-xs text-white"></i></a>
+                  </div> -->
+              </div>
+          </div>
+          <div class="col-lg-4 col-md-6 shuffle-item">
+              <div class="project-item">
+                  <img src="images/project/WhatsApp Image 2023-02-08 at 9.30.14 PM.jpeg" alt="project-image" class="img-fluid w-100">
+                  <!-- <div class="project-hover bg-secondary px-4 py-3">
+                      <a href="#" class="text-white h4">receive best advice</a>
+                      <a href="#"><i class="ti-link icon-xs text-white"></i></a>
+                  </div> -->
+              </div>
+          </div>
+          <div class="col-lg-4 col-md-6 shuffle-item">
+              <div class="project-item">
+                  <img src="images/project/WhatsApp Image 2023-02-08 at 9.30.16 PM.jpeg" alt="project-image" class="img-fluid w-100">
+                 <!--  <div class="project-hover bg-secondary px-4 py-3">
+                      <a href="#" class="text-white h4">save time and effort</a>
+                      <a href="#"><i class="ti-link icon-xs text-white"></i></a>
+                  </div> -->
+              </div>
+          </div>
+          <div class="col-lg-4 col-md-6 shuffle-item">
+              <div class="project-item">
+                  <img src="images/project/WhatsApp Image 2023-02-11 at 21.27.30.jpg" alt="project-image" class="img-fluid w-100">
+                 <!--  <div class="project-hover bg-secondary px-4 py-3">
+                      <a href="#" class="text-white h4">different products</a>
+                      <a href="#"><i class="ti-link icon-xs text-white"></i></a>
+                  </div> -->
+              </div>
+          </div>
+          <div class="col-lg-4 col-md-6 shuffle-item">
+              <div class="project-item">
+                  <img src="images/project/whatsApp Image 2023-02-11 at 21.27.29.jpg" alt="project-image" class="img-fluid w-100">
+                 <!--  <div class="project-hover bg-secondary px-4 py-3">
+                      <a href="#" class="text-white h4">different products</a>
+                      <a href="#"><i class="ti-link icon-xs text-white"></i></a>
+                  </div> -->
+              </div>
+          </div>
+      </div>
+  </div>
 </section>
 <!-- /project -->
 
@@ -553,7 +622,7 @@
           <div class="col-lg-8 offset-lg-1">
               <h2 class="text-gradient-primary">Contact me with Call</h2>
               <p class="h4 font-weight-bold text-white mb-4">Call support 24×7 </p>
-              <a href="tel:9694698624" class="btn btn-lg btn-primary">Let’s talk</a>
+              <a href="tel:9694698624" class="btn btn-lg btn-primary">Call now</a>
           </div>
       </div>
   </div>
@@ -569,7 +638,7 @@
     <div class="container">
       <div class="row align-items-center">
         <div class="col-md-3 col-6">
-          <h4 class="text-white mb-5">About</h4>
+          <h4 class="text-white mb-5">Menu</h4>
           <ul class="list-unstyled">
             <li><a href="index.php" class="text-light d-block mb-3">Home</a></li>
             <li><a href="contact.php" class="text-light d-block mb-3">Contact</a></li>
@@ -577,13 +646,15 @@
             <li><a href="services.php" class="text-light d-block mb-3">Services</a></li>
           </ul>
         </div>
-        <div class="col-md-3 col-6">
-          <h4 class="text-white mb-5">Company</h4>
+        <div class="col-md-3 col-12">
+          <h4 class="text-white mb-5">Contact Details</h4>
           <ul class="list-unstyled">
-            <li><a href="index.php" class="text-light d-block mb-3">Home</a></li>
-            <li><a href="contact.php" class="text-light d-block mb-3">Contact</a></li>
-            <li><a href="about.php" class="text-light d-block mb-3">About us</a></li>
-            <li><a href="services.php" class="text-light d-block mb-3">Services</a></li>
+            <li><a href="#" class="text-light d-block mb-3">Name : Royal Moduler kitchen & Interior</a></li>
+            <li><a href="https://goo.gl/maps/TpahFquNwkyg9LbW8" class="text-light d-block mb-3">Office Address : LG-24 Jaipur Electronic Market Riddhi Siddhi circle, Gopalpura mod,Jaipur
+         Pin code- 302018
+</a></li>
+            <li><a href="tel:9680598624" class="text-light d-block mb-3">Mobile No. : 9680598624,</a></li>
+            <li><a href="tel:9694698624" class="text-light d-block mb-3">9694698624</a></li>
           </ul>
         </div>
         
@@ -615,15 +686,15 @@
         </div>
         <div class="col-md-6">
             <ul class="list-inline text-md-right text-center">
-            <li class="list-inline-item"><a class="d-block p-3 text-white" href="https://www.facebook.com/profile.php?id=100086517619234&mibextid=LQQJ4d"><i class="ti-facebook"></i></a></li>
-            <li class="list-inline-item"><a class="d-block p-3 text-white" href="https://www.youtube.com/@businessbadhalocom/"><i class="fa fa-youtube-play"></i></a></li>
-            <li class="list-inline-item"><a class="d-block p-3 text-white" href="https://www.instagram.com/business_badha_lo_com/"><i class="ti-instagram"></i></a></li>
+            <li class="list-inline-item"><a class="d-block p-3 text-white" href="https://www.facebook.com/profile.php?id=100089870058802&mibextid=ZbWKwL"><i class="ti-facebook"></i></a></li>
+            <li class="list-inline-item"><a class="d-block p-3 text-white" href="https://goo.gl/maps/TpahFquNwkyg9LbW8"><i class="fa-solid fa-location-dot"></i></a></li>
+            <li class="list-inline-item"><a class="d-block p-3 text-white" href="http://Instagram.com/royalmodulerkitchen.interior"><i class="ti-instagram"></i></a></li>
           </ul>
         </div>
       </div>
     </div>
   </div>
-    <a href="https://api.whatsapp.com/send?phone=919694698624&text=Hi%2C%20I%27m%20Connected%20to%20You%20from%20Your%20Website.%0A%0Ahttps%3A%2F%2Fbusinessbadhalo.com%2F%20%F0%9F%92%BB"
+    <a href="https://api.whatsapp.com/send?phone=919694698624&text=Hi%2C%20I%27m%20Connected%20to%20You%20from%20Your%20Website.%0A%0Ahttps%3A%2F%2Froyalmodularkitchenjaipur.com%2F%20%F0%9F%92%BB"
             class="float" target="_blank">
     <!-- <i class="fa fa-whatsapp my-float"></i> -->
     <i class="fa-brands fa-whatsapp float"></i>
